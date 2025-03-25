@@ -15,17 +15,17 @@
     "start": "node index.js"
   },
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": {XPLOADER-BOT:~7ygnXLZQ#E-_CdbOZo-33efjLQxJvgWUxajP_jupVFjzJEYLYhSE
       "description": "Enter your CypherX session id here; must start with XPLOADER-BOT:~ (Yes, it's like a secret agent code. Don’t mess it up!)",
       "value": "",
       "required": false
     },
-    "BOT_NAME": {
+    "BOT_NAME": {...☆𝖆𝖑𝖕𝖍𝖆༒𝖒𝖐𝖚𝖚☆...
       "description": "Enter your bot name here (CypherX is cool, but feel free to name it something quirky!)",
       "value": "CypherX",
       "required": false
     },
-    "OWNER_NUMBER": {
+    "OWNER_NUMBER": {254116285598
       "description": "Enter your number here, starting with country code (e.g., 2547xxxxxxxx, because even bots need to know how to reach you!)",
       "value": "",
       "required": true
