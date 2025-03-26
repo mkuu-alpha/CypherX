@@ -29,7 +29,7 @@ global.botname = process.env.BOT_NAME || 'CypherX'
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
+global.ownernumber = process.env.OWNER_NUMBER || '254116285598' 
 // Your personal contact number. If you want to call Tylor, this is the number. 👀
 
 //-----------------[ OWNER NAME ]------------------//
